@@ -42,9 +42,9 @@ Write a program that:
    - the length of a rectangle
    - the width of a rectangle
 3. Computes and prints:
-   - the area 
-   - the perimeter 
-   - the length of the diagonal 
+   - the area (rounded to 1 decimal place)
+   - the perimeter (rounded to 1 decimal place)
+   - the length of the diagonal (rounded to 2 decimal place)
 
 ***Example output.*** When you run your program, the format should match the following: 
 ```text
@@ -121,9 +121,9 @@ Ask the user to enter:
 
 ### Part (b) [12 Points]
 Compute:
-- total driving time (in hours)
-- total gallons of gas needed
-- total fuel cost
+- total driving time (in hours, rounded to 1 decimal place)
+- total gallons of gas needed (rounded to 1 decimal place)
+- total fuel cost (rounded to 1 decimal place)
 
 ### Part (c) [8 Points]
 Print a clear and friendly summary of the trip as shown below. 
